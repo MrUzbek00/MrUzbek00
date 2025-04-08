@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Tillo Khamdamov 👋<br>🧑‍💻 Passionate Developer and Educator<br>🎓 Background: Computer Information Systems for Business<br>🎓 Graduated from: Bangor University, MDIST Tashkent<br><br>💡 I enjoy building tools that simplify everyday tasks, especially using:<br>🐍 Python | ⚙️ Django | 🗄️ SQLite | 🤖 Telegram Bots (Aiogram)
+#Hi, I'm Tillo Khamdamov 👋<br>🧑‍💻 Passionate Developer and Educator<br>🎓 Background: Computer Information Systems for Business<br>🎓 Graduated from: Bangor University, MDIST Tashkent<br><br>💡 I enjoy building tools that simplify everyday tasks, especially using:<br>🐍 Python | ⚙️ Django | 🗄️ SQLite | 🤖 Telegram Bots (Aiogram)
 
 
 ## 🌐 Socials:
