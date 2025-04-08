@@ -1,5 +1,8 @@
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 # 💫 About Me:
-Hi, I'm Tillo Khamdamov 👋<br>🧑‍💻 Passionate Developer and Educator<br>🎓 Background: Computer Information Systems for Business<br>🎓 Graduated from: Bangor University, MDIST Tashkent<br><br>💡 I enjoy building tools that simplify everyday tasks, especially using:<br>🐍 Python | ⚙️ Django | 🗄️ SQLite | 🤖 Telegram Bots (Aiogram)
+Hi, I'm <b>Tillo Khamdamov</b> 👋<br>🧑‍💻 Passionate Developer and Educator<br>🎓 Background: Computer Information Systems for Business<br>🎓 Graduated from: Bangor University, MDIST Tashkent<br><br>💡 I enjoy building tools that simplify everyday tasks, especially using:<br>🐍 Python | ⚙️ Django | 🗄️ SQLite | 🤖 Telegram Bots (Aiogram)
 
 
 ## 🌐 Socials:
@@ -15,11 +18,14 @@ Hi, I'm Tillo Khamdamov 👋<br>🧑‍💻 Passionate Developer and Educator<br
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MrUzbek00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MrUzbek00&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrUzbek00/MrUzbek00/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrUzbek00/MrUzbek00/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MrUzbek00/MrUzbek00/output/github-snake.svg" />
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MrUzbek00&icon=0&color=0)](https://visitcount.itsvg.in)
